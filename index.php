@@ -1,3 +1,3 @@
 <?php
-echo "Welcome to Exeter";
+echo "Welcome to Exeter Premedia Services";
 ?>
