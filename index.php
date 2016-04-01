@@ -1,3 +1,3 @@
 <?php
-echo "Welcome to Exeter Premedia Services";
+echo "This file is my home page";
 ?>
